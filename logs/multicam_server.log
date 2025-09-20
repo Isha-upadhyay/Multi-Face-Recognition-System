@@ -1,0 +1,25 @@
+2025-02-20 11:31:05 - INFO -  [INFO] loading encodings...
+2025-02-20 11:37:37 - INFO -  [INFO] loading encodings...
+2025-02-20 11:37:37 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.17.0.2:5000
+2025-02-20 11:37:37 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-20 11:38:13 - INFO -  172.17.0.1 - - [20/Feb/2025 11:38:13] "GET / HTTP/1.1" 200 -
+2025-02-20 11:38:13 - INFO -  172.17.0.1 - - [20/Feb/2025 11:38:13] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-02-20 11:38:13 - INFO -  172.17.0.1 - - [20/Feb/2025 11:38:13] "GET /video_raw HTTP/1.1" 200 -
+2025-02-20 11:38:14 - INFO -  172.17.0.1 - - [20/Feb/2025 11:38:14] "GET /video_processed HTTP/1.1" 200 -
+2025-02-20 11:38:15 - INFO -  172.17.0.1 - - [20/Feb/2025 11:38:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-20 11:41:30 - INFO -  [INFO] loading encodings...
+2025-02-20 11:41:30 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.17.0.2:5000
+2025-02-20 11:41:30 - INFO -  [33mPress CTRL+C to quit[0m
+2025-02-20 11:41:41 - INFO -  172.17.0.1 - - [20/Feb/2025 11:41:41] "GET / HTTP/1.1" 200 -
+2025-02-20 11:41:41 - INFO -  172.17.0.1 - - [20/Feb/2025 11:41:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-20 11:41:41 - INFO -  172.17.0.1 - - [20/Feb/2025 11:41:41] "GET /video_raw HTTP/1.1" 200 -
+2025-02-20 11:41:42 - INFO -  172.17.0.1 - - [20/Feb/2025 11:41:42] "GET /video_processed HTTP/1.1" 200 -
+2025-02-20 11:41:55 - INFO -  172.17.0.1 - - [20/Feb/2025 11:41:55] "GET / HTTP/1.1" 200 -
+2025-02-20 11:41:55 - INFO -  172.17.0.1 - - [20/Feb/2025 11:41:55] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-02-20 11:41:55 - INFO -  172.17.0.1 - - [20/Feb/2025 11:41:55] "GET /video_raw HTTP/1.1" 200 -
